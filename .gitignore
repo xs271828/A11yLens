@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.agents/
+.codex/
+.a11ylens/
+outputs/
+work/
+playwright-report/
+test-results/
+*.log
+.env
+.env.local
